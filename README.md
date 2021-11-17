@@ -1,1 +1,1 @@
-# Racism_in_Reddit
+# Scarstic_comments_on_reddit
