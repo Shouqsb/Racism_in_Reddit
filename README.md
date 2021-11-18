@@ -12,10 +12,10 @@ The dataset contains 1.3 million Sarcastic comments from the Internet commentary
 
 
 ## Algorthim
--Dataset cleaning and removing null values and convert the data types of the featurs using ```pandas```
--Explore the data
--Visualization the data using ```matplotlib.pyplot``` and ```seaborn```
--Apply vectorzition on the dataset using ```TfidfVectorizer```
+* Dataset cleaning and removing null values and convert the data types of the featurs using ```pandas```
+* Explore the data
+* Visualization the data using ```matplotlib.pyplot``` and ```seaborn```
+* Apply vectorzition on the dataset using ```TfidfVectorizer```
 
 *Models*
 Using Logistic Regression and Naive Bayes to classify the comments if is it sarcastic/non sarcastic
