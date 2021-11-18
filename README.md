@@ -1,8 +1,8 @@
 # Sarcastic_comments_on_reddit
-# Abstract
+## Abstract
 The goal of this project is to detect sarcastic comments by analyzing comments that use the sarcasm tag using machine learning models, in order to detect and prevent sarcastic comments. The data used in this project was created by Kaggle, and the data trained Logistic Regression and Naive Bayes from the sklearn package, with the Logistic Regression outperforming the Naive Bayes by 69%.
 
-# Design 
+## Design 
 The project is a requirement in T5 Data Scince Bootcamp provided by SDAIA. the main idea of the project is classifying comments if it is sarcastic/non-sarcastic using machine learning algorithms. the data is a comments in Reddit provided by kaggle 
 
 ## Data
