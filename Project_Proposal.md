@@ -1,7 +1,7 @@
 # Project Proposal  
 
 
-# Scarstic_comments_on_reddit
+# Sarcastic_comments_on_reddit
 
 Reddit is a network of communities where people may explore their interests, hobbies, and passions, on the other side there is many people in different communities use reddit, Unfortunately, there is many comments that contain sarcasm.
 Sarcasm it is the use of words that obviously mean the reverse of what they say, used with the intent of hurting someone's feelings or criticising something
