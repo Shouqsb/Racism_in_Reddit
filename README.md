@@ -20,23 +20,23 @@ The dataset contains 1.3 million Sarcastic comments from the Internet commentary
 *Models*
 Using Logistic Regression and Naive Bayes to classify the comments if is it sarcastic/non sarcastic
 Logistic Regression result:
--Accuracy 0.69
--F1 0.69
--precision 0.69
--recall 0.70
+* Accuracy 0.69
+* F1 0.69
+* precision 0.69
+* recall 0.70
 
 Naive Bayes result:
--Accuracy 0.67
--F1 0.67
--precision 0.67
--recall 0.67
+* Accuracy 0.67
+* F1 0.67
+* precision 0.67
+* recall 0.67
 
 
-Based on the accuracy the Logistic Regression more performance than Naive Bayes
+Based on the accuracy the Logistic Regression gives better performance than Naive Bayes
 
 ## Tools
-`pandas` for data manipulation
-`sklearn` for modeling
-```matplotlib, seaborn```  for plotting
-`TfidfVectorizer` to vectorzition
+* `pandas` for data manipulation
+* `sklearn` for modeling
+* ```matplotlib, seaborn```  for plotting
+* `TfidfVectorizer` to vectorzition
 
